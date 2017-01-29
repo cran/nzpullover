@@ -1,0 +1,17 @@
+237ede141f8f942d76ec00f62a0ef55e *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+b39e9f5521454c1bd43fc05892b4d795 *R/driving-offences.R
+b304cf5ad2ea0409855be114db0ffa78 *R/excess.R
+bf24b314cae6abed3e32c6c7d120cbbc *R/fleeing-area.R
+c9a83a36ed02bb90ab55fbebdfac4e17 *R/fleeing-district.R
+92abfa7b256337470b6073410e2a7a1d *R/police-speeding.R
+e3453e423fa7e357d0096585b5dc69f5 *data/driving_offences.rda
+91938722e41f2d31c679a74c8a320676 *data/excess.rda
+4ebb26c3759ac167d55a0cf3b391c4c9 *data/fleeing_area.rda
+df21081921bb7ea5985e3475a8a3f8f6 *data/fleeing_district.rda
+0aca5c50d5f4ee04d7dceb4c85bb7e59 *data/police_speeding.rda
+eebbc60487d8a170be137ca6ae58fa67 *man/driving_offences.Rd
+2cd20cc17ba4b97454f00dfe0d1b6b01 *man/excess.Rd
+932e80c997a435ed9a7fb3ee33bd183e *man/fleeing_area.Rd
+2e306b244ab595e5cf0e4a0740230b50 *man/fleeing_district.Rd
+978aa241b23ecf83ac18a3e6340da330 *man/police_speeding.Rd
