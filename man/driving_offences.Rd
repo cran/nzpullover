@@ -15,14 +15,14 @@
   \item{month}{Month of the event}
 }}
 \source{
-\url{http://www.police.govt.nz/about-us/publication/road-policing-driver-offence-data-january-2009-september-2016}
+\url{http://www.police.govt.nz/about-us/publication/road-policing-driver-offence-data-january-2009-december-2017}
 }
 \usage{
 driving_offences
 }
 \description{
 A dataset containing driving offences, fines, and vehicle observations by
-cameras, in New Zealand between 2009 and 2016.
+cameras, in New Zealand between 2009 and 2017.
 }
 \details{
 The categories of offence are Red Light, Restraints, Alcohol & Drugs, Mobile
@@ -31,7 +31,7 @@ phone, Camera-issued Speed, Officer-issued Speed, and Vehicles past cameras.
 
 \describe{
 \item{Red Light}{Red light running offences at intersections for both
-vehicles and pedestrians (seperated by officer issued and red light camera)}
+vehicles and pedestrians (separated by officer issued and red light camera)}
 \item{Restraints}{ All restraint use offences (seatbelt and child restraint),
 excludes restraint equipment offences}
 \item{Alcohol & Drugs}{Offences relating to driving under the influence of
@@ -88,11 +88,12 @@ as Police record speed camera notice details separately from raw vehicle
 counts. The total number of vehicles detected by speed cameras on deployment
 may therefore include a small number of false radar detections. Note also
 that this data starts from August 2009 as there were some technical issues
-affecting the rollout of digital mobile cameras primarily between January and
-July 2009.
+affecting the roll-out of digital mobile cameras primarily between January
+and July 2009.
 }
 \seealso{
 \code{\link{excess}}, \code{\link{fleeing_area}},
-\code{\link{fleeing_district}}, \code{\link{police_speeding}}
+\code{\link{fleeing_district}}, \code{\link{police_speeding}},
+\code{\link{police_speeding_band}}
 }
 \keyword{datasets}
